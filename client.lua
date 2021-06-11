@@ -7,5 +7,5 @@ AddEventHandler('onClientMapStart', function()
 end)
 
 --==============================================
--- Copyright By The West City RP 2.0 - 2020
+-- Copyright By EliteNetwork - 2021
 --==============================================
